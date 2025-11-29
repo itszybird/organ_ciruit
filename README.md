@@ -1,2 +1,2 @@
-# Organ-Circuit-KiCad-
+# Organ-Circuit-KiCad
 Basically a music maker
